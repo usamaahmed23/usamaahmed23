@@ -28,4 +28,5 @@ P.S. Currently deep in AI Evaluation, Context Engineering, and Token Efficiency.
 
 ## Find Me
 
-| [LinkedIn](www.linkedin.com/in/usama-ahmed-718801252) | [Email](mailto:usamaahmed2315@gmail.com) |
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/usama-ahmed-718801252)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:usamaahmed2315@gmail.com)
