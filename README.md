@@ -17,7 +17,7 @@ P.S. Currently deep in AI Evaluation, Context Engineering, and Token Efficiency.
 - **Vector Stores** — Pinecone, Chroma (swap with what you actually use)
 - **ML & Training** — PyTorch, fine-tuning, quantization (learning)
 - **Cloud & Infra** — AWS / GCP, Docker
-- **Viz & Demos** — Three.js, D3.js, Sandpack, Excalidraw
+- **Viz & Demos** — Three.js, D3.js
 - **Languages** — Python, JavaScript, Go
 
 ## Work History
